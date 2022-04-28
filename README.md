@@ -4,6 +4,7 @@
 [Cài đặt và triển khai Hadoop single node](#install_single_node_hadoop)
   * [Điều kiện trước khi cài đặt](#prerequisites)
   * [Thiết lập user cho Hadoop](#user_setting)
+  * [Download và Cài đặt Hadoop trên Ubuntu](#download_install_hadoop)
 
 <a name = "install_single_node_hadoop"></a>
 ## Cài đặt và triển khai Hadoop single node
@@ -39,5 +40,9 @@ chmod 0600 ~/.ssh/authorized_keys
 ```
 ssh localhost
 ```
+<a name="download_install_hadoop"></a>
+### Download và Cài đặt Hadoop trên Ubuntu
+Tải về một phiên bản Hadoop trên trang phân phối chính thức của Hadoop tại : https://hadoop.apache.org/releases.html
 
+![download_hadoop](https://user-images.githubusercontent.com/103992475/165662924-584e1e6d-789e-43ec-b4f0-93255002f77e.png)
 

@@ -5,6 +5,7 @@
   * [Điều kiện trước khi cài đặt](#prerequisites)
   * [Thiết lập user cho Hadoop](#user_setting)
   * [Download và Cài đặt Hadoop trên Ubuntu](#download_install_hadoop)
+  * [Cấu hình và triển khai Hadoop Single Node (Pseudo-Distributed Mode)](#pseudo_distributed_mode)
 
 <a name = "install_single_node_hadoop"></a>
 ## Cài đặt và triển khai Hadoop single node
@@ -52,4 +53,9 @@ Tải về một phiên bản Hadoop trên trang phân phối chính thức củ
 
 Click vào link đầu tiên để tải về máy tính
 
-
+Bây giờ để file nén vừa tải về vào bất kì chỗ nào và giải nén nó ra bằng lệnh :
+```
+tar xvzf hadoop-3.2.3.tar.gz
+```
+<a name="pseudo_distributed_mode"></a>
+### Cấu hình và triển khai Hadoop Single Node (Pseudo-Distributed Mode)

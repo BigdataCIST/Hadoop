@@ -46,3 +46,5 @@ Tải về một phiên bản Hadoop trên trang phân phối chính thức củ
 
 ![download_hadoop](https://user-images.githubusercontent.com/103992475/165662924-584e1e6d-789e-43ec-b4f0-93255002f77e.png)
 
+Ấn vào ***binary*** trong ***binary download***
+

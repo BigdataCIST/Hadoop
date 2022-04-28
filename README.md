@@ -48,3 +48,8 @@ Tải về một phiên bản Hadoop trên trang phân phối chính thức củ
 
 Ấn vào ***binary*** trong ***binary download***
 
+![link_download](https://user-images.githubusercontent.com/103992475/165663285-f64aacae-eead-4611-b480-4f2809b45155.png)
+
+Click vào link đầu tiên để tải về máy tính
+
+

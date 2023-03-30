@@ -10,7 +10,7 @@
 **Bài toán đặt ra:**
 * Dữ liệu luôn tăng và phần cứng thì có giới hạn nên không thể lưu trữ hết lượng dữ liệu khổng lồ cũng như xử lý tính toán chúng trên một máy tính đơn lẻ. Do đó ta sẽ lưu trữ và xử lý dữ liệu đó trên nhiều máy đơn lẻ  
 
-$\rightarrow$ Cần một hệ thống quản lý lưu trữ và xử lý dữ liệu lớn 
+$\rightarrow$ Cần một hệ thống quản lý lưu trữ và xử lý dữ liệu lớn được phân tán trên các các máy tính
 
 $\rightarrow$ Giải pháp: Hadoop (nó là cái gì có ăn được không? Đọc tiếp sẽ rõ 😁)
 <a name="overview"></a>

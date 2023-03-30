@@ -6,6 +6,7 @@
   * [Thiết lập user cho Hadoop](#user_setting)
   * [Download và Cài đặt Hadoop trên Ubuntu](#download_install_hadoop)
   * [Cấu hình và triển khai Hadoop Single Node (Pseudo-Distributed Mode)](#pseudo_distributed_mode)
+  * [Cài đặt và cấu hình Hadoop Cluster](#install_hadoop_cluster)
 
 <a name = "install_single_node_hadoop"></a>
 ## Cài đặt và triển khai Hadoop single node
@@ -59,3 +60,6 @@ tar xvzf hadoop-3.2.3.tar.gz
 ```
 <a name="pseudo_distributed_mode"></a>
 ### Cấu hình và triển khai Hadoop Single Node (Pseudo-Distributed Mode)
+
+<a name="install_hadoop_cluster"></a>
+## [Cài đặt và cấu hình Hadoop Cluster](https://123host.vn/tailieu/kb/vps/cai-dat-va-cau-hinh-hadoop-cluster.html)
